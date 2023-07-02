@@ -1,0 +1,15 @@
+C:\Users\dvzor_79xyqb6\OneDrive\Documents\GB\CSharp\Csharp001_HelloConsole\bin\Debug\net6.0\Csharp001_HelloConsole.exe
+C:\Users\dvzor_79xyqb6\OneDrive\Documents\GB\CSharp\Csharp001_HelloConsole\bin\Debug\net6.0\Csharp001_HelloConsole.deps.json
+C:\Users\dvzor_79xyqb6\OneDrive\Documents\GB\CSharp\Csharp001_HelloConsole\bin\Debug\net6.0\Csharp001_HelloConsole.runtimeconfig.json
+C:\Users\dvzor_79xyqb6\OneDrive\Documents\GB\CSharp\Csharp001_HelloConsole\bin\Debug\net6.0\Csharp001_HelloConsole.dll
+C:\Users\dvzor_79xyqb6\OneDrive\Documents\GB\CSharp\Csharp001_HelloConsole\bin\Debug\net6.0\Csharp001_HelloConsole.pdb
+C:\Users\dvzor_79xyqb6\OneDrive\Documents\GB\CSharp\Csharp001_HelloConsole\obj\Debug\net6.0\Csharp001_HelloConsole.csproj.AssemblyReference.cache
+C:\Users\dvzor_79xyqb6\OneDrive\Documents\GB\CSharp\Csharp001_HelloConsole\obj\Debug\net6.0\Csharp001_HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dvzor_79xyqb6\OneDrive\Documents\GB\CSharp\Csharp001_HelloConsole\obj\Debug\net6.0\Csharp001_HelloConsole.AssemblyInfoInputs.cache
+C:\Users\dvzor_79xyqb6\OneDrive\Documents\GB\CSharp\Csharp001_HelloConsole\obj\Debug\net6.0\Csharp001_HelloConsole.AssemblyInfo.cs
+C:\Users\dvzor_79xyqb6\OneDrive\Documents\GB\CSharp\Csharp001_HelloConsole\obj\Debug\net6.0\Csharp001_HelloConsole.csproj.CoreCompileInputs.cache
+C:\Users\dvzor_79xyqb6\OneDrive\Documents\GB\CSharp\Csharp001_HelloConsole\obj\Debug\net6.0\Csharp001_HelloConsole.dll
+C:\Users\dvzor_79xyqb6\OneDrive\Documents\GB\CSharp\Csharp001_HelloConsole\obj\Debug\net6.0\refint\Csharp001_HelloConsole.dll
+C:\Users\dvzor_79xyqb6\OneDrive\Documents\GB\CSharp\Csharp001_HelloConsole\obj\Debug\net6.0\Csharp001_HelloConsole.pdb
+C:\Users\dvzor_79xyqb6\OneDrive\Documents\GB\CSharp\Csharp001_HelloConsole\obj\Debug\net6.0\Csharp001_HelloConsole.genruntimeconfig.cache
+C:\Users\dvzor_79xyqb6\OneDrive\Documents\GB\CSharp\Csharp001_HelloConsole\obj\Debug\net6.0\ref\Csharp001_HelloConsole.dll

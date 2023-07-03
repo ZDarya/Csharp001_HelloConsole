@@ -1,0 +1,15 @@
+C:\Users\dvzor_79xyqb6\OneDrive\Documents\GB\CSharp\Csharp002_HelloUser\bin\Debug\net6.0\Csharp002_HelloUser.exe
+C:\Users\dvzor_79xyqb6\OneDrive\Documents\GB\CSharp\Csharp002_HelloUser\bin\Debug\net6.0\Csharp002_HelloUser.deps.json
+C:\Users\dvzor_79xyqb6\OneDrive\Documents\GB\CSharp\Csharp002_HelloUser\bin\Debug\net6.0\Csharp002_HelloUser.runtimeconfig.json
+C:\Users\dvzor_79xyqb6\OneDrive\Documents\GB\CSharp\Csharp002_HelloUser\bin\Debug\net6.0\Csharp002_HelloUser.dll
+C:\Users\dvzor_79xyqb6\OneDrive\Documents\GB\CSharp\Csharp002_HelloUser\bin\Debug\net6.0\Csharp002_HelloUser.pdb
+C:\Users\dvzor_79xyqb6\OneDrive\Documents\GB\CSharp\Csharp002_HelloUser\obj\Debug\net6.0\Csharp002_HelloUser.csproj.AssemblyReference.cache
+C:\Users\dvzor_79xyqb6\OneDrive\Documents\GB\CSharp\Csharp002_HelloUser\obj\Debug\net6.0\Csharp002_HelloUser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dvzor_79xyqb6\OneDrive\Documents\GB\CSharp\Csharp002_HelloUser\obj\Debug\net6.0\Csharp002_HelloUser.AssemblyInfoInputs.cache
+C:\Users\dvzor_79xyqb6\OneDrive\Documents\GB\CSharp\Csharp002_HelloUser\obj\Debug\net6.0\Csharp002_HelloUser.AssemblyInfo.cs
+C:\Users\dvzor_79xyqb6\OneDrive\Documents\GB\CSharp\Csharp002_HelloUser\obj\Debug\net6.0\Csharp002_HelloUser.csproj.CoreCompileInputs.cache
+C:\Users\dvzor_79xyqb6\OneDrive\Documents\GB\CSharp\Csharp002_HelloUser\obj\Debug\net6.0\Csharp002_HelloUser.dll
+C:\Users\dvzor_79xyqb6\OneDrive\Documents\GB\CSharp\Csharp002_HelloUser\obj\Debug\net6.0\refint\Csharp002_HelloUser.dll
+C:\Users\dvzor_79xyqb6\OneDrive\Documents\GB\CSharp\Csharp002_HelloUser\obj\Debug\net6.0\Csharp002_HelloUser.pdb
+C:\Users\dvzor_79xyqb6\OneDrive\Documents\GB\CSharp\Csharp002_HelloUser\obj\Debug\net6.0\Csharp002_HelloUser.genruntimeconfig.cache
+C:\Users\dvzor_79xyqb6\OneDrive\Documents\GB\CSharp\Csharp002_HelloUser\obj\Debug\net6.0\ref\Csharp002_HelloUser.dll

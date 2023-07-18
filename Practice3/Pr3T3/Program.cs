@@ -10,7 +10,7 @@ if (num == 1)
 {
     Console.WriteLine("X > 0, Y > 0");
 }
-else if (num == 2 || num == "II")
+else if (num == 2)
 {
     Console.WriteLine("X > 0, Y < 0");
 }
